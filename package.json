@@ -1,0 +1,16 @@
+{
+  "name": "usandomysql",
+  "version": "1.0.0",
+  "description": "Ejemplo utilizando una base de datos mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "ejemplo",
+    "nodejs"
+  ],
+  "author": "pedricu",
+  "license": "ISC"
+}
